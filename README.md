@@ -35,8 +35,8 @@
         <a href="https://gadiskoding.my.id">
             <img src="https://img.shields.io/badge/Author-@gadiskoding-white?style=flat&labelColor=white&logoColor=black" />
         </a>
-        <a href="https://github.com/vermux">
-            <img src="https://img.shields.io/badge/Elm Developer-Vermux Initiative-white?style=flat&labelColor=white&logoColor=black" />
+        <a href="https://github.com/kodetrovita">
+            <img src="https://img.shields.io/badge/Web Developer-Kode Trovita-white?style=flat&labelColor=white&logoColor=black" />
         </a>
         <a href="https://itera.ac.id">
             <img src="https://img.shields.io/badge/Student-@ SIT-white?style=flat&labelColor=white&logoColor=black" />
