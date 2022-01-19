@@ -32,8 +32,8 @@
     <summary>Occupation</summary>
     <div align="left">
         <br>
-        <a href="https://gadiskoding.my.id">
-            <img src="https://img.shields.io/badge/Author-@gadiskoding-white?style=flat&labelColor=white&logoColor=black" />
+        <a href="https://llrm.itch.io">
+            <img src="https://img.shields.io/badge/Storywriter-@llrm-white?style=flat&labelColor=white&logoColor=black" />
         </a>
 <!--         <a href="https://github.com/kodetrovita">
             <img src="https://img.shields.io/badge/Web Developer-Kode Trovita-white?style=flat&labelColor=white&logoColor=black" />
